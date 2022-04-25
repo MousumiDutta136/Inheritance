@@ -1,0 +1,15 @@
+C:\Users\dutta\source\repos\Humber\InheritanceSample\InheritanceSample\bin\Debug\net6.0\InheritanceSample.exe
+C:\Users\dutta\source\repos\Humber\InheritanceSample\InheritanceSample\bin\Debug\net6.0\InheritanceSample.deps.json
+C:\Users\dutta\source\repos\Humber\InheritanceSample\InheritanceSample\bin\Debug\net6.0\InheritanceSample.runtimeconfig.json
+C:\Users\dutta\source\repos\Humber\InheritanceSample\InheritanceSample\bin\Debug\net6.0\InheritanceSample.dll
+C:\Users\dutta\source\repos\Humber\InheritanceSample\InheritanceSample\bin\Debug\net6.0\ref\InheritanceSample.dll
+C:\Users\dutta\source\repos\Humber\InheritanceSample\InheritanceSample\bin\Debug\net6.0\InheritanceSample.pdb
+C:\Users\dutta\source\repos\Humber\InheritanceSample\InheritanceSample\obj\Debug\net6.0\InheritanceSample.csproj.AssemblyReference.cache
+C:\Users\dutta\source\repos\Humber\InheritanceSample\InheritanceSample\obj\Debug\net6.0\InheritanceSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dutta\source\repos\Humber\InheritanceSample\InheritanceSample\obj\Debug\net6.0\InheritanceSample.AssemblyInfoInputs.cache
+C:\Users\dutta\source\repos\Humber\InheritanceSample\InheritanceSample\obj\Debug\net6.0\InheritanceSample.AssemblyInfo.cs
+C:\Users\dutta\source\repos\Humber\InheritanceSample\InheritanceSample\obj\Debug\net6.0\InheritanceSample.csproj.CoreCompileInputs.cache
+C:\Users\dutta\source\repos\Humber\InheritanceSample\InheritanceSample\obj\Debug\net6.0\InheritanceSample.dll
+C:\Users\dutta\source\repos\Humber\InheritanceSample\InheritanceSample\obj\Debug\net6.0\ref\InheritanceSample.dll
+C:\Users\dutta\source\repos\Humber\InheritanceSample\InheritanceSample\obj\Debug\net6.0\InheritanceSample.pdb
+C:\Users\dutta\source\repos\Humber\InheritanceSample\InheritanceSample\obj\Debug\net6.0\InheritanceSample.genruntimeconfig.cache
